@@ -1,5 +1,5 @@
 # proyecto-IES-Luis-Bueno-
-Mi proyecto consiste en la mejora de un amplificador omnidireccional cacssa
+Mi proyecto consiste en la mejora de un amplificador omnidireccional 
 
 # Resumen principal / main summary
 El presente proyecto intermodular aborda la optimización de un sistema de amplificación omnidireccional. El objetivo principal reside en superar las limitaciones de cobertura actuales mediante dos ejes fundamentales: el redimensionamiento de la estructura física y el incremento de la potencia de salida. Estas modificaciones permiten albergar componentes de mayor capacidad y mejorar la eficiencia térmica del sistema. El resultado es un dispositivo robusto que garantiza una ganancia de señal superior y un rango de alcance omnidireccional más extenso y estable, validando así la integración práctica de las competencias técnicas y de diseño adquiridas.
