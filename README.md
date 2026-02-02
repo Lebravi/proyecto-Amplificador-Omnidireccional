@@ -1,4 +1,4 @@
-# proyecto-IES-Luis-Bueno-
+# proyecto- Amplificador Omnidireccional
 Mi proyecto consiste en la mejora de un amplificador omnidireccional 
 
 # Resumen principal / main summary
