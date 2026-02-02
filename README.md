@@ -6,3 +6,13 @@ El presente proyecto intermodular aborda la optimización de un sistema de ampli
 
 This intermodular project focuses on the optimization of an omnidirectional amplification system. The primary objective is to overcome current coverage limitations through two fundamental approaches: resizing the physical structure and increasing the output power. These modifications allow for the housing of higher-capacity components and improve the system's thermal efficiency. The result is a robust device that ensures superior signal gain and a more extensive, stable omnidirectional range, thereby validating the practical integration of the acquired technical and design competencies
 # tipo de licencia
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
